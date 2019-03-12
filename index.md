@@ -1,4 +1,20 @@
-## Maive Jackson
+## Maive Jackson Designs
+
+
+
+## About Me
+I am a graphic designer with my bachelor of Fine Arts in Graphic Design. I have 5+ years of professional experience designing both for individuals, small businesses and large companies. I am, unofficially, the "ideas girl", a wellspring of fresh new ideas on how to make the world (including my client's businesses) connect more efficiently. 
+
+Originally from the small island country of Dominica, I moved to the Virgin islands at 11 and to the mainland United States when I was 19. I was blessed to grow and learn as a creative in multiple environments and look at things from multiple perspectives. Today, I translate that blessing to dynamic, creative solutions for my clients as we work together to bring their vision to life.
+
+I love learning about new cultures and engaging with new people and that translates to my work. I bring my colorful personality into everything that I do, whether it's designing, cooking, conversing with friends or any one of my other loves and I look forward to bringing it to future projects. 
+
+
+
+
+## My Work
+
+##  Contact Me
 
 You can use the [editor on GitHub](https://github.com/maivej/Maive-Jackson/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
 
